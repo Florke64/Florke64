@@ -13,4 +13,3 @@ A Minecraft Veteran.
 ## Active Projects
 
 - [StoneAge](https://github.com/Florke64/StoneAge) - Paper-MC Plugin adding stone generator machines. With custom drops and cool features!
-- [DemonTower](https://github.com/Florke64) - To Be Announced...
