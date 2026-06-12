@@ -1,15 +1,7 @@
 # Florke64
 
-[Mastodon](https://mastodon.social/@florke64) | [YouTube](https://youtube.com/@Florke64)
-
 ---
 
-Interested in the Linux systems and Self-hosting.
+Linux, Self-hosting, Minecraft Veteran. Currently off the GitHub - will start mirroring to it soon...
 
-A Minecraft Veteran.
-
----
-
-## Active Projects
-
-- [StoneAge](https://github.com/Florke64/StoneAge) - Paper-MC Plugin adding stone generator machines. With custom drops and cool features!
+[Online Presence](https://mastodon.social/@florke64)
